@@ -1,0 +1,20 @@
+{
+  "name": "storefront-sdk-poc",
+  "version": "1.0.0",
+  "description": "Storefront SDK PoC",
+  "author": "Klaus Kohut",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0",
+    "shopify-buy": "^2.8.0"
+  },
+  "devDependencies": {
+    "@nuxtjs/dotenv": "^1.4.1"
+  }
+}
